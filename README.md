@@ -41,3 +41,4 @@ while self.alive():
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=你的github账号.你的repo)  
 
 （README.md 第42次重构，这次加了彩虹粒子特效✨）
+![visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/ShengStack/ShengStack)
