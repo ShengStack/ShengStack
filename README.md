@@ -28,7 +28,7 @@ while self.alive():
 | 深情模块    | 已加载到内存      | 💌💌💌💌💌💌💌💌💌💌 |
 
 📮 **找到我**：  
-- BliBli：[@QSHENGHH](https://b23.tv/RVFHS5A) （日常发射抽象电波）  
+- BliBli：[@Qin背书](https://b23.tv/ojgBtI1) （日常发射抽象电波）  
 - 博客：[https://shengstack.github.io/] （存放深夜代码散文）  
 - 邮箱：2983784475@qq.com （接受一切有趣协作和哲学辩论）  
 
