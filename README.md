@@ -78,4 +78,4 @@ mindmap
 如果你也在寻找技术同路人，欢迎发起Issues探讨，或提交Pull Request**共建生态。让我们在代码的星辰大海中，共同绘制新的技术星座 ✨！
 
  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShengStack&show_icons=true)
- ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你ShengStack&theme=github)
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ShengStack&theme=github)
