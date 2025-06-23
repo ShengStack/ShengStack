@@ -1,7 +1,6 @@
-![我的职业照](https://img.picui.cn/free/2025/06/23/6859396ab9988.jpg)
+![我的职业照](https://img.picui.cn/free/2025/06/23/68593b72efb49.png)
 
-![我的职业照](https://img.picui.cn/free/2025/06/23/6859396ab9988.jpg
-https://img.picui.cn/free/2025/06/23/68593b72efb49.png)
+
 
  🇨🇳 你好呀，我是 [ShengStack]！  
 
