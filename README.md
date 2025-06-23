@@ -76,5 +76,6 @@ mindmap
  
 当前专注于**[如：生成式AI的安全治理框架]与[边缘计算的资源调度优化]研究，同时推进[你的下一个开源项目计划]。
 如果你也在寻找技术同路人，欢迎发起Issues探讨，或提交Pull Request**共建生态。让我们在代码的星辰大海中，共同绘制新的技术星座 ✨！
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShengStack&show_icons=true)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你ShengStack&theme=github)
+
+ ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ShengStack&show_icons=true)
+ ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=你ShengStack&theme=github)
