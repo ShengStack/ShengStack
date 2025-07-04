@@ -40,7 +40,7 @@
 
 ## 🔭最近关注
 
-这里展示的是最近Star了**BILIBILIAS**项目的用户
+这里展示的是最近Star了**Stack-View**项目的用户
 
 [![Stargazers repo roster for @ShengStacm/ShengStack](https://reporoster.com/stars/ShengStacj/Stack-View)](https://github.com/ShengStack/Stack-View/stargazers)
 
