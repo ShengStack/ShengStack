@@ -5,7 +5,8 @@
 # 你好，WARRIOR <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-我正在创作关于Android和后端的作品，对Java和Kotlin尤为喜欢，偶尔还玩玩PHP。我热衷于开源分享，喜欢二次元动漫作品，因此你可以在我作品的很多位置，发现有相关内容的引入。
+我热衷于开源分享，喜欢二次元动漫作品，因此你可以在我作品的很多位置，发现有相关内容的引入。
+##所谓万丈深渊，下去，也是鹏程万里。——木心
 
 如果你有兴趣了解我，想要联系我，可以通过下面的渠道💕。
 
