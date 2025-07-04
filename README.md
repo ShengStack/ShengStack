@@ -1,52 +1,69 @@
-![我的职业照](https://img.picui.cn/free/2025/06/23/68593b72efb49.png)
+![头图](https://www.helloimg.com/i/2025/07/04/6867e2202dd39.png)
+
+<div align="center">
+
+# 你好，WARRIOR <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+
+我正在创作关于Android和后端的作品，对Java和Kotlin尤为喜欢，偶尔还玩玩PHP。我热衷于开源分享，喜欢二次元动漫作品，因此你可以在我作品的很多位置，发现有相关内容的引入。
+
+如果你有兴趣了解我，想要联系我，可以通过下面的渠道💕。
+
+
+[![B站个人主页](https://img.shields.io/badge/bilibili-informational?style=flat&logo=bilibili&logoColor=white&color=00A1D6)](https://b23.tv/ojgBtI1)
+[![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://shengstack.github.io/)
+![腾讯QQ](https://img.shields.io/badge/ShengStack-informational?style=flat&logo=tencentqq&logoColor=white&color=EB1923)
+
+</div>
+
+
+## ✍我在使用的工具
+
+开发工具
+
+![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=androidstudio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
+
+常用语言
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Kotin-informational?style=flat&logo=kotlin&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+
+## ⚡最近活动
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShengStack)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌱正在学习
+
+我在学习安卓开发的相关知识，《第一行代码-Android》，在尝试利用这本书学习，感觉相当不错，推荐有兴趣的小伙伴试试看。
+
+## 🔭最近关注
+
+这里展示的是最近Star了**BILIBILIAS**项目的用户
+
+[![Stargazers repo roster for @ShengStacm/ShengStack](https://reporoster.com/stars/ShengStacj/Stack-View)](https://github.com/ShengStack/Stack-View/stargazers)
+
+
+<div align="center" >
+
+# **感谢看到这里啦!**
+
+</div>
 
 
 
- 🇨🇳 你好呀，我是 [ShengStack]！  
+<!--
+**ShengStack/ShengStack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-✨ **关于我**：  
-- 没有了喜欢的人，连发呆都不知道想谁 🎨  
--   
-- 白天是抽象的小黑子，晚上是感性的深夜哲学家  
-- 相信「好玩」是最高级的生产力，会偷偷给命令行加彩虹特效 🌈  
+Here are some ideas to get you started:
 
-🛠️ **技术游乐场**：  
-```python
-while self.alive():
-    self.eat("代码") 
-    self.drink("咖啡")
-    self.make(joy = random_abstract_art())
-    if mood == "深夜EMO":
-        open_pull_request(poetry=True)
-```
-
-🎮 **人设参数表**：  
-| 属性        | 数值              | 进度条           |
-|-------------|-------------------|------------------|
-| 抽象力      | ██████████ 98%   | 🌀🌀🌀🌀🌀🌀🌀🌀🌀🌀 |
-| 玩心值      | 溢出警告          | 🎪🎪🎪🎪🎪🎪🎪🎪🎪🎪+∞ |
-| 深情模块    | 已加载到内存      | 💌💌💌💌💌💌💌💌💌💌 |
-
-📮 **找到我**：  
-- BliBli：[@Qin背书](https://b23.tv/ojgBtI1) （日常发射抽象电波）  
-- 博客：[https://shengstack.github.io/] （存放深夜代码散文）  
-- 邮箱：2983784475@qq.com （接受一切有趣协作和哲学辩论）  
-
-🤹 **近期状态**：  
-> "没有了喜欢的人，连发呆都不知道想谁"  
-> "发现`git reflog`比人生更容易回滚"
->"总有些惊奇的机遇，比方说当我遇见你"  
-
-🌟 **友情提示**：  
-欢迎来我的仓库挖宝，但小心：  
-- 可能突然冒出哲学README.md  
-- 单元测试里藏着小剧场  
-- 提交信息偶尔是十四行诗 
-- 爱人七分足矣，剩下三分爱自己 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=你的github账号.你的repo)  
-
-（README.md 第42次重构，这次加了彩虹粒子特效✨）
-
-
-![visitors](https://img.shields.io/badge/dynamic/json?color=blue&label=Visitors&query=value&url=https://api.countapi.xyz/hit/ShengStack/ShengStack)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
