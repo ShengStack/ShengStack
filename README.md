@@ -51,8 +51,8 @@
 <div align="center" >
 
 
-<div align="left">
-
-[<img  src="https://img.picui.cn/free/2025/07/05/68692c2303418.png?style=for-the-badge&logo=Telegram&logoColor=white">](https://b23.tv/ojgBtI1)
+<div style="width: 200px; text-align: center;">
+  ![图片描述](https://img.picui.cn/free/2025/07/05/68692c2303418.png)
+</div>
 
 # **感谢看到这里啦!**
