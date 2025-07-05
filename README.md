@@ -7,6 +7,7 @@
 
 
 我热衷于开源分享，喜欢二次元动漫作品，因此你可以在我作品的很多位置，发现有相关内容的引入。
+
 ##所谓万丈深渊，下去，也是鹏程万里。——木心
 
 如果你有兴趣了解我，想要联系我，可以通过下面的渠道💕。
@@ -14,7 +15,7 @@
 
 [![B站个人主页](https://img.shields.io/badge/bilibili-informational?style=flat&logo=bilibili&logoColor=white&color=00A1D6)](https://b23.tv/ojgBtI1)
 [![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://shengstack.github.io/)
-![腾讯QQ](https://img.shields.io/badge/ShengStack-informational?style=flat&logo=tencentqq&logoColor=white&color=EB1923)
+![腾讯QQ](https://img.shields.io/badge/ShengStack-informational?style=flat&logo=tencentqq&logoColor=white&color=EB1923)]（）
 
 </div>
 
