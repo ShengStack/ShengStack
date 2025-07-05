@@ -48,7 +48,7 @@
 [![Stargazers repo roster for @ShengStacm/ShengStack](https://reporoster.com/stars/ShengStacj/Stack-View)](https://github.com/ShengStack/Stack-View/stargazers)
 
 
-<div align="center" >
+<div align="left" >
 
 
 <a href="https://b23.tv/ojgBtI1">
