@@ -52,7 +52,7 @@
 
 
 <a href="https://b23.tv/ojgBtI1">
-  <img src="https://img.picui.cn/free/2025/07/05/68692c2303418.png" style="width: 200px; height: auto;" alt="Telegram链接">
+  <img src="https://img.picui.cn/free/2025/07/05/68692c2303418.png" style="width: 100px; height: auto;" alt="Telegram链接">
 </a>
 
 # **感谢看到这里啦!**
