@@ -14,7 +14,7 @@
 
 
 [![B站个人主页](https://img.shields.io/badge/bilibili-informational?style=flat&logo=bilibili&logoColor=white&color=00A1D6)](https://b23.tv/ojgBtI1)
-[![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://shengstack.github.io/)
+[![博客](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=21759B)](https://shengstack.rf.gd/?i=1)
 ![QQ](https://img.shields.io/badge/ShengStack-informational?style=flat&logo=tencentqq&logoColor=white&color=EB1923)
 
 </div>
