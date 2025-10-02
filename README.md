@@ -1,4 +1,4 @@
-![头图](https://tc.z.wiki/autoupload/AO4EHloa3hi-r8r-7X7s1I2z60i04bbmzcQCF16aEvKyl5f0KlZfm6UsKj-HyTuv/20250704/b7CE/1536X778/%E8%B1%86%E5%8C%85.png
+![头图](https://img.cdn1.vip/i/68de28b4edec3_1759389876.webp
 )
 
 <div align="center">
